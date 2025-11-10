@@ -1,0 +1,5 @@
+{
+  "name": "InstaDrive Scheduler",
+  "description": "An application to automatically pull videos from Google Drive and schedule them for posting as Instagram Reels based on a user-defined schedule.",
+  "requestFramePermissions": []
+}
